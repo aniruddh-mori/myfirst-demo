@@ -1,6 +1,2 @@
-# myfirst-demo
-this is my First git Repository.
-<br>
-Author - Aniruddh codder
-<br>
-hello!!
+<p> hello guys ?? what are you doing??</p>
+author by aniruddh mori 
